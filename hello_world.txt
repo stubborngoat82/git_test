@@ -1,0 +1,2 @@
+hello world
+I am adding some text to test GIT.
